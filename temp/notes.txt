@@ -1,0 +1,4 @@
+maths - 8 to 12
+science - 8 to 10 
+pys - 11 and 12 
+chem - 11 and 12
